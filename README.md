@@ -22,7 +22,7 @@ protect over volt by diode TVS, protect over current by fuse 100mA.
 ![dinrail](https://user-images.githubusercontent.com/49629370/64397959-5239da00-d08d-11e9-9f76-c4aaae5adad4.png)
 
 -Upload code auto, use CP2102.
--Have 7 IO free, can use it for another module extern.
+-Have 7 IO free, can use them for another module extern.
 ![12](https://user-images.githubusercontent.com/49629370/64397501-b0fe5400-d08b-11e9-8690-bae710f9a904.png)
 
 ![lora5](https://user-images.githubusercontent.com/49629370/64397342-2c133a80-d08b-11e9-9520-96f3bfae00c6.jpg)
