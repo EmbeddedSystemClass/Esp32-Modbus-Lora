@@ -18,3 +18,5 @@ protect over volt by diode TVS, protect over current by fuse 100mA.
 -Can mount dinrail.
 
 -Have 7 IO free, can use it for another module extern.
+![lora5](https://user-images.githubusercontent.com/49629370/64397342-2c133a80-d08b-11e9-9520-96f3bfae00c6.jpg)
+![lora3](https://user-images.githubusercontent.com/49629370/64397351-2e759480-d08b-11e9-9655-a404aa613fd8.jpg)
