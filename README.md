@@ -1,7 +1,4 @@
-Trong trường hợp các code mẫu này có ích với bạn, hãy donate cho tôi tách cà phê.
-Momo or zalopay: 0969809444
-In case example code useful for you, let donate for me cup coffee.
-My paypal THANHNAMLT5@gmail.com
+THANHNAMLT5@gmail.com
 
 # BOARD ESP32 MODBUS LORA
 ![modbus2mqtt](https://user-images.githubusercontent.com/49629370/64397506-b78ccb80-d08b-11e9-93d8-67bd6f3248a9.png)
